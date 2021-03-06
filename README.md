@@ -1,8 +1,10 @@
 # FirebaseEmailPasswordLogin
-Email and Password login using Firebase Authentication
+<b>Email and Password login using Firebase Authentication</b>
 
 
-Simple Login Page using Firebase Authentication
-1.Login Page
-2.Register Page
-3.Forgot Password
+<b>Simple Login Page using Firebase Authentication</b><br/> 
+1.Login Page<br/> 
+2.Register Page <br/> 
+3.Forgot Password <br/> 
+
+<img src="ScreenShoot/ss.jpeg"/>
