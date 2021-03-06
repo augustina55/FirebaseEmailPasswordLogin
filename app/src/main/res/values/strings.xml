@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Login Page</string>
+    <string name="email">Email Address</string>
+    <string name="password">*******</string>
+    <string name="resetpass">Reset Password</string>
+    <string name="forgotpass">Forgot Password?</string>
+    <string name="text1">We need your registered email address to send you password reset link</string>
+    <string name="newUser">Dont have account ? \n Register Now</string>
+</resources>
